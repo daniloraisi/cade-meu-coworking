@@ -4,7 +4,7 @@
 
 O projeto Go Ahead visa criar uma aplicação nos moldes comerciais para os participantes poderem aprender o processo na totalidade. Desde a concepção até o deploy e manutenção em produção!
 
-É um projeto totalmente Open Source e sem fins lucrativos. O repositório encontra-se sob o licenciamento MIT, você pode ler mais a respeito no nosso arquivo [LICENSE](./LICENSE.md).
+É um projeto totalmente Open Source e sem fins lucrativos. O repositório encontra-se sob o licenciamento MIT, você pode ler mais a respeito no nosso arquivo [LICENSE](./LICENSE).
 
 ## Roadmap
 
