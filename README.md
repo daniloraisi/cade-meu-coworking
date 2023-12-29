@@ -12,13 +12,9 @@ Você encontrará o roadmap do projeto aqui mesmo no GitHub. Contaremos com um r
 
 ## Afinal, qual aplicação será desenvolvida?
 
-Essa é uma excelente pergunta. Atualmente temos 2 discussões em aberto para definirmos qual será a aplicação desenvolvida. Confira essas discussões clicando [aqui](https://github.com/daniloraisi/go-ahead/discussions). 
+A definição do projeto pode ser encontrada no arquivo [Project](./PROJECT.md)
 
-Sinta-se a vontade para incluir algum projeto que entenda ser interessante para desenvolver.
-
-A previsão de início do projeto é janeiro/2024.
-
-Mas, porque só em janeiro, você deve estar se perguntando? Usaremos o mês de dezembro para discutirmos e chegarmos à melhor aplicação a ser desenvolvida. E também por iniciarmos em um novo ano, com a cabeça renovada e já com um objetivo em comum =D.
+Iniciaremos as atividades do projeto em janeiro/2024.
 
 ## FAQ
 
