@@ -12,7 +12,7 @@ Você encontrará o roadmap do projeto aqui mesmo no GitHub. Contaremos com um r
 
 ## Afinal, qual aplicação será desenvolvida?
 
-A definição do projeto pode ser encontrada no arquivo [Project](./PROJECT.md)
+A definição do projeto pode ser encontrada no arquivo [PROJECT](./PROJECT.md)
 
 Iniciaremos as atividades do projeto em janeiro/2024.
 
