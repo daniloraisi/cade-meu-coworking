@@ -4,7 +4,9 @@ Com o surgimento do trabalho remoto, às vezes queremos sair de casa para trabal
 	    
 Quem melhor do que nós mesmos para mapear esses lugares?  
 	    
-Esse projeto visa criar uma plataforma para inclusão de espaços de coworking em qualquer lugar no Brasil e no mundo.  
+Esse projeto visa criar uma plataforma para inclusão de espaços de coworking em qualquer lugar no Brasil e no mundo.
+
+**As features (O que a aplcação fornece ao cliente) do projeto estão disponiveis em [FEATURES](./FEATURES.md)**
 	    
 *__Nota:__ Essa documentação está em desenvolvimento, e sofrerá alterações ao longo do tempo.*
 
