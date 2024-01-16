@@ -1,6 +1,7 @@
 Table users{
   username varchar(40) [pk, unique]
-  name varchar(255)
+  first_name varchar(150)
+  last_name varchar(150)
   email varchar(255) [unique]
   friends json
   password md5
