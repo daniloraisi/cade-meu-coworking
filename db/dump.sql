@@ -14,11 +14,10 @@ CREATE TABLE "users" (
 CREATE TABLE "workspaces" (
   "id" int PRIMARY KEY,
   "name" varchar(60) UNIQUE,
-  "local" varchar(255),
   "about" text
 );
 
-CREATE TABLE "workspaces.local" (
+CREATE TABLE "workspaces_addresses" (
   "id" int,
   "street" varchar(255),
   "zipcode" varchar(12),
@@ -26,4 +25,4 @@ CREATE TABLE "workspaces.local" (
   "longitude" decimal(12,9)
 );
 
-ALTER TABLE "workspaces.local" ADD FOREIGN KEY ("id") REFERENCES "workspaces" ("id");
+ALTER TABLE "workspaces_addresses" ADD FOREIGN KEY ("id") REFERENCES "workspaces" ("id");
